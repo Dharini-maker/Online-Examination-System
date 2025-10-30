@@ -38,9 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-<img width="1255" height="1002" alt="image" src="https://github.com/user-attachments/assets/5884cd26-67b1-4561-81cd-5c456ca91da8" />
-
+<img width="951" height="857" alt="usse" src="https://github.com/user-attachments/assets/9de79094-b781-440e-93b9-718e0877e8a7" />
 
 
 
@@ -58,7 +56,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="1257" height="987" alt="image" src="https://github.com/user-attachments/assets/f88194f7-9920-4263-b77f-14956f379c43" />
+![class](https://github.com/user-attachments/assets/34369394-ddbb-4e3b-81cc-7ed9a7f9eca3)
 
 
 # COMMUNICTION DIAGRAM:
@@ -81,7 +79,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-<img width="1252" height="967" alt="image" src="https://github.com/user-attachments/assets/03bc3087-7487-434e-ae92-da20392d5039" />
+<img width="813" height="468" alt="pack" src="https://github.com/user-attachments/assets/00a0b603-788a-4f22-a452-151356d1c92a" />
 
 
 
@@ -100,7 +98,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-<img width="1275" height="1031" alt="image" src="https://github.com/user-attachments/assets/a1771321-f09e-4402-a08a-50d3dfad35fa" />
+<img width="705" height="853" alt="act" src="https://github.com/user-attachments/assets/6a6e5167-1b50-4f0b-ad39-303a86e52426" />
 
 
 
@@ -122,7 +120,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-<img width="1270" height="1001" alt="image" src="https://github.com/user-attachments/assets/fe9e1275-918b-4dc2-b92a-643e0391e372" />
+<img width="870" height="693" alt="seq" src="https://github.com/user-attachments/assets/f82278ff-06d0-4538-b0a6-a8abc176a72d" />
 
 
 
